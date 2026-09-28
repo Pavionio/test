@@ -1,0 +1,12 @@
+.git
+.qdrant
+answer.csv
+*.parquet
+*.zip
+*.part
+data/
+models/
+artifacts/
+__pycache__/
+.pytest_cache/
+catboost_info/

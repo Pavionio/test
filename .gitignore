@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+catboost_info/
+.qdrant/
+answer.csv
+data/downloads/
+data/processed/
+models/
+artifacts/
+*.zip
+*.part
+*.parquet
+

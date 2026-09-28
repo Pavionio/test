@@ -1,0 +1,10 @@
+{
+  "branch": "B",
+  "geo": "geo_exact",
+  "alpha": 0.0,
+  "geo_bias": 8.0,
+  "retrieval_top_k": 1000,
+  "answer_top_k": 50,
+  "selected_on": "200-query validation holdout",
+  "holdout_recall_at_50": 0.75
+}

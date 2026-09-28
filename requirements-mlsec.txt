@@ -1,0 +1,20 @@
+# Shared pinned packages for the original mlsec environment and Docker image.
+# Docker installs torch==2.11.0 from the CUDA 12.8 PyTorch wheel index first.
+numpy==1.26.4
+pandas==2.3.3
+pyarrow==23.0.1
+scipy==1.15.3
+scikit-learn==1.7.2
+catboost==1.2.10
+qdrant-client==1.19.1
+bm25s==0.3.11
+transformers==5.17.0
+sentence-transformers==6.1.0
+huggingface-hub==1.8.0
+joblib==1.5.2
+threadpoolctl==3.6.0
+pytest==8.4.2
+psutil==7.2.2
+python-dateutil==2.9.0.post0
+requests==2.32.5
+
